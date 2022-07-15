@@ -1,6 +1,7 @@
-# Causalidad-experimentos-v
+# Experimentos de validación
 
-Repositorio de notebooks de Jupyter para el cálculo de Entropía de Transferencia Simbólica sobre las variables de los experimentos de validación.
+Repositorio de notebooks de Jupyter para el cálculo de Entropía de Transferencia Simbólica (ETS) sobre las variables de los experimentos de validación.
+El objetivo es validar la metodología de ETS con experimentos sencillos tirando "dados".
 
 ### Prerequisitos de software
 
